@@ -1,4 +1,4 @@
-Simple example to try FastApi with Edgedb
+Simple example to try (FastApi)[https://fastapi.tiangolo.com/] with (Edgedb)[https://www.edgedb.com/]
 
 To run the app first execute:
 `docker-compose up` 
